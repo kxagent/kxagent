@@ -19,4 +19,4 @@ it lies.
 
 ## Contact
 
-[dev@tyleryouk.com](mailto:dev@tyleryouk.com) · [Resume (PDF)](https://docs.utopiamodels.ai/resume.pdf) · [Book a call](https://tyleryouk.com/#call)
+[dev@tyleryouk.com](mailto:dev@tyleryouk.com) · [Resume (PDF)](https://tyleryouk.com/resume.pdf) · [Book a call](https://tyleryouk.com/#call)
