@@ -13,10 +13,8 @@ it lies.
   public repo. Two schedulers reading the queue in the same second both passed a check-then-launch guard
   (a 26 to 27 second gap), because a systemd unit name is no mutex across unix users. One `flock` held
   across the check and the launch closed it; the race test fails by design if you remove the lock.
-- **[docs.utopiamodels.ai](https://docs.utopiamodels.ai)**: how the fleet works, the decisions and what
-  each one cost, with dated measurements.
 - **[tyleryouk.com](https://tyleryouk.com)**: three problems and how each was found.
 
 ## Contact
 
-[dev@tyleryouk.com](mailto:dev@tyleryouk.com) · [Resume (PDF)](https://tyleryouk.com/resume.pdf) · [Book a call](https://tyleryouk.com/#call)
+[dev@tyleryouk.com](mailto:dev@tyleryouk.com) · [Resume (PDF)](https://tyleryouk.com/resume.pdf) · [Book a call](https://tyleryouk.com/call)
